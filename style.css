@@ -1,0 +1,59 @@
+body {
+  background-color: hsl(47, 88%, 63%);
+}
+.blog-container {
+  margin: auto;
+  width: 400px;
+  height: auto;
+  border-radius: 15px;
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+  margin-top: 15rem;
+  border: 1px solid hsl(0, 0%, 7%);
+  box-shadow: 10px 10px 5px 3px hsl(0, 0%, 7%);
+}
+.blogImg {
+  margin-top: 20px;
+  border-radius: 15px;
+}
+.blogLearning {
+  width: 80px;
+  height: 3vh;
+  background-color: hsl(47, 88%, 63%);
+  border-radius: 5px;
+  margin-left: 30px;
+}
+.learning {
+  padding: 2px;
+  font-weight: 800;
+}
+.blogText {
+  width: 200px;
+  font-weight: 500;
+  display: flex;
+}
+.heading {
+  margin-top: 50px;
+  margin-right: 75px;
+}
+.note {
+  width: 300px;
+  text-align: start;
+  padding-left: 25px;
+  font-weight: 500;
+  font-size: 16px;
+  color: hsl(0, 0%, 50%);
+}
+.userImg {
+  display: block;
+  padding: 25px;
+  width: 50px;
+}
+.userSection {
+  display: flex;
+}
+.username {
+  margin-top: 45px;
+  margin-left: -12px;
+  font-weight: 900;
+}
